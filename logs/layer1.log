@@ -1,0 +1,10 @@
+2026-03-07 18:04:30,601 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-03-07 18:04:30,601 - INFO - NumExpr defaulting to 8 threads.
+2026-03-07 18:04:30,804 - INFO - ========================================
+2026-03-07 18:04:30,804 - INFO - 启动 Layer 1: 股票池生成
+2026-03-07 18:04:30,804 - INFO - ========================================
+2026-03-07 18:04:30,804 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+2026-03-07 18:05:13,060 - ERROR - 解析 Wikipedia 失败: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2026-03-07 18:05:13,061 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/NASDAQ-100
+2026-03-07 18:05:55,202 - ERROR - 解析 Wikipedia 失败: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2026-03-07 18:05:55,203 - INFO - 标普500 + 纳指100 去重后共 0 只标的

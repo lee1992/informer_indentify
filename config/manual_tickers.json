@@ -1,0 +1,8 @@
+{
+  "tier_1_core": {
+    "etfs": ["SPY", "QQQ", "IWM", "DIA", "UVXY", "XLF", "XLV", "XLE", "XLK", "ARKK"],
+    "mega_caps": ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "META", "TSLA", "BRK-B"],
+    "china_concept": ["BABA", "JD", "PDD", "NIO", "LI", "XPEV"]
+  },
+  "tier_2_legacy": []
+}
