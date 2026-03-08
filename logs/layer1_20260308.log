@@ -1,0 +1,6 @@
+2026-03-08 19:57:58,313 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-03-08 19:57:58,313 - INFO - NumExpr defaulting to 8 threads.
+2026-03-08 19:57:58,596 - INFO - 正在测试代理连接 (检查 V2rayN 是否启动)...
+2026-03-08 19:58:00,034 - INFO - 开始抓取【纳斯达克100】成分股
+2026-03-08 19:58:01,172 - INFO - 开始抓取【道琼斯工业平均指数】成分股
+2026-03-08 19:58:02,644 - INFO - 开始抓取【标普500】成分股
