@@ -1,0 +1,720 @@
+=== 三大指数成分股（去重后）===
+21st Century Fox Class A
+21st Century Fox Class B
+A
+AAPL
+ABBV
+ABNB
+ABT
+ACGL
+ACN
+ADBE
+ADI
+ADM
+ADP
+ADSK
+AEE
+AEP
+AES
+AFL
+AIG
+AIZ
+AJG
+AKAM
+ALB
+ALGN
+ALL
+ALLE
+ALNY
+AMAT
+AMCR
+AMD
+AME
+AMGN
+AMP
+AMT
+AMZN
+ANET
+AON
+AOS
+APA
+APD
+APH
+APO
+APP
+APTV
+ARE
+ARES
+ARM
+ASML
+ATO
+AVB
+AVGO
+AVY
+AWK
+AXON
+AXP
+AZO
+Activision Blizzard
+Aerospace and defense
+Akamai Technologies
+Alexion Pharmaceuticals
+Align Technology
+Altera
+American Airlines
+American Eagle Outfitters
+American Power Conversion
+Amylin Pharmaceuticals
+Ansys
+Apollo Group
+AstraZeneca
+BA
+BAC
+BALL
+BAX
+BBY
+BDX
+BEA Systems
+BEN
+BF.B
+BG
+BIIB
+BK
+BKNG
+BKR
+BLDR
+BLK
+BMC Software
+BMY
+BR
+BRK.B
+BRO
+BSX
+BX
+BXP
+Baidu
+Bed Bath & Beyond
+BioMarin Pharmaceutical
+Biogen
+Biomet
+Biopharmaceutical
+Broadcasting and entertainment
+Broadcom Corporation
+C
+C. H. Robinson Worldwide
+CA Inc.
+CAG
+CAH
+CARR
+CAT
+CB
+CBOE
+CBRE
+CCEP
+CCI
+CCL
+CDNS
+CDW
+CDW Corporation
+CEG
+CF
+CFG
+CHD
+CHRW
+CHTR
+CI
+CIEN
+CINF
+CL
+CLX
+CMCSA
+CME
+CMG
+CMI
+CMS
+CNC
+CNP
+COF
+COIN
+COO
+COP
+COR
+COST
+CPAY
+CPB
+CPRT
+CPT
+CRH
+CRL
+CRM
+CRWD
+CSCO
+CSGP
+CSX
+CTAS
+CTRA
+CTSH
+CTVA
+CVNA
+CVS
+CVX
+Cadence Design Systems
+Catamaran Corporation
+Celgene
+Cephalon
+Cerner
+Check Point
+CheckFree Corporation
+Cintas
+Citrix Systems
+Clothing industry
+CoStar Group
+Comverse Technology
+Conglomerate
+Construction and mining
+Ctrip
+D
+DAL
+DASH
+DD
+DDOG
+DE
+DECK
+DELL
+DG
+DGX
+DHI
+DHR
+DIS
+DLR
+DLTR
+DOC
+DOV
+DOW
+DPZ
+DRI
+DTE
+DUK
+DVA
+DVN
+DXCM
+Dell
+Dentsply
+Dentsply Sirona
+DirecTV
+Discovery Communications Series A
+Discovery Communications Series C
+Discovery CommunicationsClass A
+Dish Network
+DocuSign
+Dollar Tree
+Drink industry
+EA
+EBAY
+EBay
+ECL
+ED
+EFX
+EG
+EIX
+EL
+ELV
+EME
+EMR
+EOG
+EPAM
+EQIX
+EQR
+EQT
+ERIE
+ES
+ESS
+ETN
+ETR
+EVRG
+EW
+EXC
+EXE
+EXPD
+EXPE
+EXR
+Electronic Arts
+Endo International
+Enphase Energy
+Equinix
+Expedia
+Expedia Group
+Expeditors International
+Express Scripts
+F
+F5 Networks
+FANG
+FAST
+FCX
+FDS
+FDX
+FE
+FER
+FFIV
+FICO
+FIS
+FISV
+FITB
+FIX
+FLIR Systems
+FOX
+FOXA
+FRT
+FSLR
+FTNT
+FTV
+Fast-moving consumer goods
+Financial services
+First Solar
+Fiserv
+Flextronics
+Focus Media Holding
+Food industry
+Fossil Group
+Foster Wheeler
+Fox Corporation
+GD
+GDDY
+GE
+GEHC
+GEN
+GEV
+GILD
+GIS
+GL
+GLW
+GM
+GNRC
+GOOG
+GOOGL
+GPC
+GPN
+GRMN
+GS
+GWW
+Garmin
+Genzyme
+GlobalFoundries
+Green Mountain Coffee Roasters
+HAL
+HAS
+HBAN
+HCA
+HD
+HIG
+HII
+HLT
+HOLX
+HON
+HOOD
+HPE
+HPQ
+HRL
+HSIC
+HST
+HSY
+HUBB
+HUM
+HWM
+Hansen Natural
+Hasbro
+Henry Schein
+Hologic
+Home Improvement
+IAC/InterActiveCorp
+IBKR
+IBM
+ICE
+IDXX
+IEX
+IFF
+INCY
+INSM
+INTC
+INTU
+INVH
+IP
+IQV
+IR
+IRM
+ISRG
+IT
+ITW
+IVZ
+Illumina
+Ilumina
+Incyte
+Information technology
+Infosys
+Insurance
+J
+J. B. Hunt
+J.B. Hunt
+JBHT
+JBL
+JCI
+JD.com
+JKHY
+JNJ
+JPM
+Joy Global
+Juniper Networks
+KDP
+KEY
+KEYS
+KHC
+KIM
+KKR
+KLA-Tencor
+KLAC
+KMB
+KMI
+KO
+KR
+KVUE
+Keurig Green Mountain
+Kraft Foods
+L
+LDOS
+LEN
+LH
+LHX
+LII
+LIN
+LLY
+LM Ericsson
+LMT
+LNT
+LOW
+LRCX
+LULU
+LUV
+LVS
+LW
+LYB
+LYV
+Lam Research
+Lamar Advertising Company
+Leap Wireless International
+Level 3 Communications
+Liberty Global
+Liberty GlobalClass A
+Liberty Latin America Class A
+Liberty Latin America Class C
+Liberty Media
+Life Technologies
+Linear Technology
+Logitech
+Lucid Group
+Lululemon Athletica
+MA
+MAA
+MAR
+MAS
+MCD
+MCHP
+MCK
+MCO
+MDLZ
+MDT
+MELI
+MET
+META
+MGM
+MKC
+MLM
+MMM
+MNST
+MO
+MOH
+MOS
+MPC
+MPWR
+MRK
+MRNA
+MRSH
+MRVL
+MS
+MSCI
+MSFT
+MSI
+MSTR
+MTB
+MTCH
+MTD
+MU
+Managed health care
+Marvell Technology Group
+Match Group
+Mattel
+Maxim Integrated Products
+MedImmune
+Microchip Technology
+Millicom International Cellular
+Moderna
+MongoDB
+Monster Worldwide
+Mylan
+NCLH
+NDAQ
+NDSN
+NEE
+NEM
+NFLX
+NI
+NII Holdings
+NKE
+NOC
+NOW
+NRG
+NSC
+NTAP
+NTL Incorporated
+NTRS
+NUE
+NVDA
+NVR
+NWS
+NWSA
+NXP Semiconductors
+NXPI
+NetApp
+NetEase
+Netflix
+NortonLifeLock
+Norwegian Cruise Line Holdings
+Nuance Communications
+O
+ODFL
+OKE
+OMC
+ON
+ON Semiconductor
+ORCL
+ORLY
+OTIS
+OXY
+Okta
+Oracle
+PANW
+PAYC
+PAYX
+PCAR
+PCG
+PDD
+PEG
+PEP
+PFE
+PFG
+PG
+PGR
+PH
+PHM
+PKG
+PLD
+PLTR
+PM
+PNC
+PNR
+PNW
+PODD
+POOL
+PPG
+PPL
+PRU
+PSA
+PSKY
+PSX
+PTC
+PWR
+PYPL
+Patterson Companies
+Patterson-UTI Energy
+Peloton
+Perrigo
+PetSmart
+Petroleum industry
+Pharmaceutical Product Development
+Pharmaceutical industry
+Q
+QCOM
+Qiagen
+Qurate Retail
+RCL
+REG
+REGN
+RF
+RJF
+RL
+RMD
+ROK
+ROL
+ROP
+ROST
+RSG
+RTX
+RVTY
+Randgold Resources
+Research in Motion
+Retailing
+Rivian Automotive
+Ross Stores
+Ryanair
+SBA Communications
+SBAC
+SBUX
+SCHW
+SHOP
+SHW
+SJM
+SLB
+SMCI
+SNA
+SNDK
+SNPS
+SO
+SOLV
+SPG
+SPGI
+SRE
+STE
+STLD
+STT
+STX
+STZ
+SW
+SWK
+SWKS
+SYF
+SYK
+SYY
+SanDisk
+Seagate Technology
+Seagen Inc.
+Sears Holdings
+Sepracor
+Shire PLC
+Sigma-Aldrich
+Sirius XM
+Sirius XM Radio
+Skyworks
+Solstice Advanced Materials
+Specialty chemicals
+Splunk
+Staples
+Starz
+Steel Dynamics
+Stericycle
+Sun Microsystems
+Supermicro
+T
+TAP
+TDG
+TDY
+TEAM
+TECH
+TEL
+TER
+TFC
+TGT
+TJX
+TKO
+TMO
+TMUS
+TPL
+TPR
+TRGP
+TRI
+TRMB
+TROW
+TRV
+TSCO
+TSLA
+TSN
+TT
+TTD
+TTWO
+TXN
+TXT
+TYL
+Take-Two Interactive
+Telecommunications industry
+Tellabs
+Teva Pharmaceutical Industries
+Tractor Supply
+Trade Desk (The)
+Trip.com
+TripAdvisor
+UAL
+UAL Corporation
+UBER
+UDR
+UHS
+ULTA
+UNH
+UNP
+UPS
+URI
+USB
+Ulta Beauty
+United Airlines Holdings
+Urban Outfitters
+V
+VICI
+VLO
+VLTO
+VMC
+VRSK
+VRSN
+VRTX
+VST
+VTR
+VTRS
+VZ
+VeriSign
+Versant
+Viacom
+VimpelCom
+Virgin Media
+Vodafone
+WAB
+WAT
+WBD
+WDAY
+WDC
+WEC
+WELL
+WFC
+WM
+WMB
+WMT
+WRB
+WSM
+WST
+WTW
+WY
+WYNN
+Walgreens Boots Alliance
+Warner Chilcott
+Western Digital
+Whole Foods Market
+Willis Towers Watson
+Wynn Resorts
+XEL
+XM Satellite Radio
+XOM
+XYL
+XYZ
+Xilinx
+YUM
+Yahoo! Inc.
+ZBH
+ZBRA
+ZS
+ZTS
+Zoom Video Communications

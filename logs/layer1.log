@@ -8,3 +8,36 @@
 2026-03-07 18:05:13,061 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/NASDAQ-100
 2026-03-07 18:05:55,202 - ERROR - 解析 Wikipedia 失败: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 2026-03-07 18:05:55,203 - INFO - 标普500 + 纳指100 去重后共 0 只标的
+2026-03-08 14:09:50,421 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-03-08 14:09:50,422 - INFO - NumExpr defaulting to 8 threads.
+2026-03-08 14:10:26,576 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-03-08 14:10:26,576 - INFO - NumExpr defaulting to 8 threads.
+2026-03-08 14:10:26,732 - INFO - ========================================
+2026-03-08 14:10:26,732 - INFO - 启动 Layer 1: 股票池生成
+2026-03-08 14:10:26,734 - INFO - ========================================
+2026-03-08 14:10:26,734 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+2026-03-08 14:11:08,893 - ERROR - 解析 Wikipedia 失败: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2026-03-08 14:11:08,894 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/NASDAQ-100
+2026-03-08 14:11:51,002 - ERROR - 解析 Wikipedia 失败: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2026-03-08 14:11:51,002 - INFO - 标普500 + 纳指100 去重后共 0 只标的
+2026-03-08 15:30:42,397 - INFO - ========================================
+2026-03-08 15:30:42,397 - INFO - 启动 Layer 1: 股票池生成
+2026-03-08 15:30:42,397 - INFO - ========================================
+2026-03-08 15:30:42,397 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+2026-03-08 16:08:59,033 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-03-08 16:08:59,033 - INFO - NumExpr defaulting to 8 threads.
+2026-03-08 16:08:59,210 - INFO - ========================================
+2026-03-08 16:08:59,210 - INFO - 启动 Layer 1: 股票池生成
+2026-03-08 16:08:59,210 - INFO - ========================================
+2026-03-08 16:08:59,211 - INFO - 正在解析 Wikipedia: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+2026-03-08 16:26:51,125 - INFO - 测试代理连接: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+2026-03-08 16:26:52,063 - INFO - 开始抓取【标普500】成分股
+2026-03-08 16:26:53,216 - INFO - 【标普500】抓取完成，共503只成分股
+2026-03-08 16:26:53,217 - INFO - 开始抓取【纳斯达克100】成分股
+2026-03-08 16:26:54,211 - INFO - 【纳斯达克100】抓取完成，共285只成分股
+2026-03-08 16:26:54,212 - INFO - 开始抓取【道琼斯工业平均指数】成分股
+2026-03-08 16:26:55,156 - INFO - 【道琼斯工业平均指数】抓取完成，共19只成分股
+2026-03-08 16:26:55,157 - INFO - 三大指数合并去重后总数量: 719
+2026-03-08 16:26:55,157 - INFO - 结果已保存至: V:\pythonproject20240816\informer_indentify\output\layer1_stock_pool.txt
+2026-03-08 16:26:55,327 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-03-08 16:26:55,327 - INFO - NumExpr defaulting to 8 threads.
